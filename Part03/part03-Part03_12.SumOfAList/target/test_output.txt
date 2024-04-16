@@ -1,0 +1,1 @@
+[{"className":"SumOfAListTest","methodName":"test","pointNames":["03-12"],"status":"PASSED"}]
