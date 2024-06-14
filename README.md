@@ -67,6 +67,7 @@ No prior knowledge of Java programming is required. However, familiarity with ba
 To get started with the course, follow these steps:
 
 1. **Clone the repository:**
+   ```sh
    git clone https://github.com/shamsiabbasoglu/MOOC-Java-Programming-I.git
    cd MOOC-Java-Programming-I
 2. **Install the required software:**
