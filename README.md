@@ -92,6 +92,4 @@ This course is licensed under the [Creative Commons Attribution 4.0 Internationa
 
 We would like to thank all the contributors and supporters who have helped make this course possible.
 
----
-
 Happy coding!🚀
