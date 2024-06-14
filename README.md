@@ -55,30 +55,26 @@ In this comprehensive Java Programming MOOC, you'll embark on a journey from the
 
 10. **Project Work**
     - Apply your skills to real-world projects
-    - Collaborate with peers to solve complex programming challenges
-    - Build a portfolio of Java projects to showcase your abilities
 
 Throughout the course, you'll engage in lectures, hands-on coding exercises, assignments, quizzes, and project work to reinforce your learning and ensure mastery of each topic.
-
-By the end of this MOOC, you'll have a solid understanding of Java programming principles and the confidence to tackle a wide range of software development tasks using Java.
 
 ## Prerequisites
 
 No prior knowledge of Java programming is required. However, familiarity with basic programming concepts such as variables, loops, and functions will be beneficial.
 
-Feel free to adjust the syllabus to fit the specific focus areas and learning objectives of your course!
-
 ## Getting Started
 
 To get started with the course, follow these steps:
 
-1. Clone or download this repository to your local machine.
-2. Install the required software:
+1. **Clone the repository:**
+   git clone https://github.com/shamsiabbasoglu/MOOC-Java-Programming-I.git
+   cd MOOC-Java-Programming-I
+2. **Install the required software:**
    - JDK (Java Development Kit)
    - IDE (Integrated Development Environment) such as IntelliJ IDEA, Eclipse, or NetBeans.
-3. Navigate to the course materials and start with the introductory modules.
-4. Complete the exercises and assignments provided in each module to reinforce your learning.
-5. Join the discussion forums or community channels to connect with other learners and ask questions.
+3. **Navigate to the course materials and start with the introductory modules.**
+4. **Complete the exercises and assignments provided in each module to reinforce your learning.**
+5. **Join the discussion forums or community channels to connect with other learners and ask questions.**
 
 ## Support
 
@@ -96,4 +92,6 @@ This course is licensed under the [Creative Commons Attribution 4.0 Internationa
 
 We would like to thank all the contributors and supporters who have helped make this course possible.
 
-Happy coding!
+---
+
+Happy coding!🚀
