@@ -1,6 +1,6 @@
-# Java Programming MOOC
+# MOOC Java Programming I
 
-Welcome to the Java Programming MOOC! This course is designed to teach you the fundamentals of Java programming, from basic syntax to more advanced concepts. Whether you're a complete beginner or looking to refresh your Java skills, this course is suitable for learners of all levels.
+Welcome to the MOOC Java Programming I! This course is designed to teach you the fundamentals of Java programming, from basic syntax to more advanced concepts. Whether you're a complete beginner or looking to refresh your Java skills, this course is suitable for learners of all levels.
 
 ## Course Overview
 
